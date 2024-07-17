@@ -1,0 +1,1 @@
+# A-Fast-Search-Method-for-3-Share-Second-Order-Masking-Schemes-for-Lightweight-S-Boxes
