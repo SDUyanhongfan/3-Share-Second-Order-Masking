@@ -1,0 +1,15 @@
+[     0.000] Parsing verilog design /home/zuni-w/Desktop/fan/toSLIVER/PRINCESbox_map.v with top module PRINCESbox
+0 unconnected cell(s) removed
+0 Buffer(s) removed and 0 signal(s) rerouted
+[     0.009] Netlist: PRINCE.nl
+[     0.012] Parse: 376 gate(s) / 534 signal(s)
+[     0.048] Elaborate: 376 gate(s) / 534 signal(s)
+[    16.874] probing.standard (d ≤ 2) -- [1;32mPASS[0m.	>> Probes: <in:line12,in:line8,in:line4>
+[    60.812] probing.robust   (d ≤ 2) -- [1;32mPASS[0m.	>> Probes: <in:line12,in:line8,in:line4>
+[    60.816] NI.standard      (d ≤ 1) -- [1;31mFAIL[0m.	>> Probes: <nor:line77>
+[    60.817] NI.robust        (d ≤ 1) -- [1;31mFAIL[0m.	>> Probes: <reg:line91>
+[    60.819] SNI.standard     (d ≤ 1) -- [1;31mFAIL[0m.	>> Probes: <nor:line77>
+[    60.820] SNI.robust       (d ≤ 1) -- [1;31mFAIL[0m.	>> Probes: <reg:line91>
+[    60.820] PINI.standard    (d ≤ 1) -- [1;31mFAIL[0m.	>> Probes: <nor:line68>
+[    60.821] PINI.robust      (d ≤ 1) -- [1;31mFAIL[0m.	>> Probes: <reg:line85>
+[    61.085] uniformity               -- [1;32mPASS[0m.

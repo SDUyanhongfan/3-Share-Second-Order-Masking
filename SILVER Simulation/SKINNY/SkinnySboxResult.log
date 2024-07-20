@@ -1,0 +1,15 @@
+[     0.000] Parsing verilog design /home/zuni-w/Desktop/fan/toSLIVER/SkinnySbox_map.v with top module SkinnySbox
+0 unconnected cell(s) removed
+0 Buffer(s) removed and 0 signal(s) rerouted
+[     0.003] Netlist: Skinny.nl
+[     0.004] Parse: 191 gate(s) / 259 signal(s)
+[     0.006] Elaborate: 191 gate(s) / 259 signal(s)
+[     0.716] probing.standard (d ≤ 2) -- [1;32mPASS[0m.	>> Probes: <in:line12,in:line8,in:line4>
+[     2.898] probing.robust   (d ≤ 2) -- [1;32mPASS[0m.	>> Probes: <in:line12,in:line8,in:line4>
+[     2.913] NI.standard      (d ≤ 1) -- [1;31mFAIL[0m.	>> Probes: <xnor:line90>
+[     2.914] NI.robust        (d ≤ 1) -- [1;31mFAIL[0m.	>> Probes: <reg:line106>
+[     2.922] SNI.standard     (d ≤ 1) -- [1;31mFAIL[0m.	>> Probes: <xnor:line90>
+[     2.923] SNI.robust       (d ≤ 1) -- [1;31mFAIL[0m.	>> Probes: <reg:line106>
+[     2.924] PINI.standard    (d ≤ 1) -- [1;31mFAIL[0m.	>> Probes: <nand:line35>
+[     2.924] PINI.robust      (d ≤ 1) -- [1;31mFAIL[0m.	>> Probes: <reg:line63>
+[     2.991] uniformity               -- [1;32mPASS[0m.

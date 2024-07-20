@@ -1,0 +1,15 @@
+[     0.000] Parsing verilog design /home/zuni-w/Desktop/fan/toSLIVER/Chi_NoFresh_map.v with top module Chi_NoFresh
+0 unconnected cell(s) removed
+0 Buffer(s) removed and 0 signal(s) rerouted
+[     0.004] Netlist: Keccak.nl
+[     0.005] Parse: 190 gate(s) / 265 signal(s)
+[     0.007] Elaborate: 190 gate(s) / 265 signal(s)
+[     1.160] probing.standard (d ≤ 2) -- [1;32mPASS[0m.	>> Probes: <in:line15,in:line10,in:line5>
+[     3.734] probing.robust   (d ≤ 2) -- [1;32mPASS[0m.	>> Probes: <in:line15,in:line10,in:line5>
+[     3.918] NI.standard      (d ≤ 1) -- [1;31mFAIL[0m.	>> Probes: <xnor:line146>
+[     3.939] NI.robust        (d ≤ 1) -- [1;31mFAIL[0m.	>> Probes: <out:line176>
+[     4.099] SNI.standard     (d ≤ 1) -- [1;31mFAIL[0m.	>> Probes: <xnor:line146>
+[     4.100] SNI.robust       (d ≤ 1) -- [1;31mFAIL[0m.	>> Probes: <out:line176>
+[     4.100] PINI.standard    (d ≤ 1) -- [1;31mFAIL[0m.	>> Probes: <and:line17>
+[     4.101] PINI.robust      (d ≤ 1) -- [1;31mFAIL[0m.	>> Probes: <reg:line63>
+[     4.126] uniformity               -- [1;32mPASS[0m.

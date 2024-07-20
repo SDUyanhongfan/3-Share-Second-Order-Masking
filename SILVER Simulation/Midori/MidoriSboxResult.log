@@ -1,0 +1,15 @@
+[     0.000] Parsing verilog design /home/zuni-w/Desktop/fan/toSLIVER/MidoriSbox_map.v with top module MidoriSbox
+0 unconnected cell(s) removed
+0 Buffer(s) removed and 0 signal(s) rerouted
+[     0.004] Netlist: Midori.nl
+[     0.006] Parse: 259 gate(s) / 374 signal(s)
+[     0.008] Elaborate: 259 gate(s) / 374 signal(s)
+[     1.683] probing.standard (d ≤ 2) -- [1;32mPASS[0m.	>> Probes: <in:line12,in:line8,in:line4>
+[     6.514] probing.robust   (d ≤ 2) -- [1;32mPASS[0m.	>> Probes: <in:line12,in:line8,in:line4>
+[     6.522] NI.standard      (d ≤ 1) -- [1;31mFAIL[0m.	>> Probes: <nand:line48>
+[     6.529] NI.robust        (d ≤ 1) -- [1;31mFAIL[0m.	>> Probes: <reg:line73>
+[     6.533] SNI.standard     (d ≤ 1) -- [1;31mFAIL[0m.	>> Probes: <nand:line48>
+[     6.536] SNI.robust       (d ≤ 1) -- [1;31mFAIL[0m.	>> Probes: <reg:line73>
+[     6.538] PINI.standard    (d ≤ 1) -- [1;31mFAIL[0m.	>> Probes: <nand:line48>
+[     6.540] PINI.robust      (d ≤ 1) -- [1;31mFAIL[0m.	>> Probes: <reg:line73>
+[     6.653] uniformity               -- [1;32mPASS[0m.

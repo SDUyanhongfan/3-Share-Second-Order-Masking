@@ -1,0 +1,15 @@
+[     0.000] Parsing verilog design /home/zuni-w/Desktop/fan/toSLIVER/PRESENTSbox_map.v with top module PRESENTSbox
+0 unconnected cell(s) removed
+0 Buffer(s) removed and 0 signal(s) rerouted
+[     0.007] Netlist: PRESENT.nl
+[     0.009] Parse: 258 gate(s) / 371 signal(s)
+[     0.012] Elaborate: 258 gate(s) / 371 signal(s)
+[     1.817] probing.standard (d ≤ 2) -- [1;32mPASS[0m.	>> Probes: <in:line12,in:line8,in:line4>
+[     7.958] probing.robust   (d ≤ 2) -- [1;32mPASS[0m.	>> Probes: <in:line12,in:line8,in:line4>
+[     7.963] NI.standard      (d ≤ 1) -- [1;31mFAIL[0m.	>> Probes: <nand:line50>
+[     7.966] NI.robust        (d ≤ 1) -- [1;31mFAIL[0m.	>> Probes: <reg:line79>
+[     7.967] SNI.standard     (d ≤ 1) -- [1;31mFAIL[0m.	>> Probes: <nand:line50>
+[     7.969] SNI.robust       (d ≤ 1) -- [1;31mFAIL[0m.	>> Probes: <reg:line79>
+[     7.971] PINI.standard    (d ≤ 1) -- [1;31mFAIL[0m.	>> Probes: <nand:line47>
+[     7.971] PINI.robust      (d ≤ 1) -- [1;31mFAIL[0m.	>> Probes: <reg:line76>
+[     8.083] uniformity               -- [1;32mPASS[0m.
