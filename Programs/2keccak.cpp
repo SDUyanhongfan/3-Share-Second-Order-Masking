@@ -1,11 +1,11 @@
 /*
 * -----------------------------------------------------------------
 * COMPANY : Shandong University
-* AUTHOR  : Yanhong Fan, Lixuan Wu,  Chaoran Wang,  Meiqin Wang
+* AUTHOR  : Yanhong Fan,  Chaoran Wang, Lixuan Wu,   Meiqin Wang
 * DOCUMENT: "A Fast Search Method for 3-Share Second-Order Masking Schemes for Lightweight S-Boxes"  
 * -----------------------------------------------------------------
 *
-* Copyright c 2023, Yanhong Fan, Lixuan Wu,  Chaoran Wang,  Meiqin Wang
+* Copyright c 2023, Yanhong Fan, Chaoran Wang, Lixuan Wu,    Meiqin Wang
 *
 *
 * All rights reserved.
