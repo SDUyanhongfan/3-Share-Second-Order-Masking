@@ -12,7 +12,7 @@
 * Please see LICENSE and README for license and further instructions.
 */
 /*
-/*GiftF
+/*GIFT F
  f3 :MSB   f0:LSB  f3||f2||f1||f0 (tzyx)
  
  f0 = d;
