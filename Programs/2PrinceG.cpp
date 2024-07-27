@@ -11,7 +11,7 @@
 * All rights reserved.
 * Please see LICENSE and README for license and further instructions.
 */
-/*PrinceG*/
+/*PRINCE G*/
 /*
 f0 = c
 f1 = c ^ d
