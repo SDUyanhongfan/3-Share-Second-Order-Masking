@@ -11,7 +11,7 @@
 * All rights reserved.
 * Please see LICENSE and README for license and further instructions.
 */
-/*RectangleF*/
+/*RECTANGLE F*/
 /*
 
 f0 = b&a ^ a ^d ^1
