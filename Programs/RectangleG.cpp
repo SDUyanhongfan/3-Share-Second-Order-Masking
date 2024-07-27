@@ -11,9 +11,9 @@
 * All rights reserved.
 * Please see LICENSE and README for license and further instructions.
 */
-/*RectangleG*/
+
 /*
-/*RectangleG
+/*RECTANGLE G
 f3 :MSB   f0:LSB  f3||f2||f1||f0 (tzyx)
 
 
