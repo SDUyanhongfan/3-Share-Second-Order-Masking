@@ -11,7 +11,7 @@
 * Please see LICENSE and README for license and further instructions.
 */
 /*
-/*Present F
+/*PRESENT F
 
 f0 = a + d + 1
 f1 = cd + b + c
