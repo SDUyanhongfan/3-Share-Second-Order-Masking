@@ -11,7 +11,7 @@
 * All rights reserved.
 * Please see LICENSE and README for license and further instructions.
 */
-/*PresentF*/
+/*PRESENT F*/
 /*
 f0 = b&d ^ c ^ d 
 f1 = b&d ^ c
