@@ -1,0 +1,15 @@
+[     0.000] Parsing verilog design /home/zuni-w/Desktop/fan/toSLIVER/RECTANGLESbox_map.v with top module RECTANGLESbox
+0 unconnected cell(s) removed
+0 Buffer(s) removed and 0 signal(s) rerouted
+[     0.004] Netlist: RECTANGLE.nl
+[     0.005] Parse: 261 gate(s) / 378 signal(s)
+[     0.009] Elaborate: 261 gate(s) / 378 signal(s)
+[     1.000] probing.standard (d ≤ 1) -- [1;32mPASS[0m.	>> Probes: <xor:line110,xnor:line239>
+[     3.364] probing.robust   (d ≤ 1) -- [1;32mPASS[0m.	>> Probes: <reg:line112,out:line250>
+[     3.373] NI.standard      (d ≤ 1) -- [1;31mFAIL[0m.	>> Probes: <xnor:line92>
+[     3.376] NI.robust        (d ≤ 1) -- [1;31mFAIL[0m.	>> Probes: <reg:line115>
+[     3.380] SNI.standard     (d ≤ 1) -- [1;31mFAIL[0m.	>> Probes: <xnor:line92>
+[     3.381] SNI.robust       (d ≤ 1) -- [1;31mFAIL[0m.	>> Probes: <reg:line115>
+[     3.384] PINI.standard    (d ≤ 1) -- [1;31mFAIL[0m.	>> Probes: <nand:line33>
+[     3.384] PINI.robust      (d ≤ 1) -- [1;31mFAIL[0m.	>> Probes: <reg:line67>
+[     3.509] uniformity               -- [1;32mPASS[0m.

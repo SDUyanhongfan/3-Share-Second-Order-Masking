@@ -1,0 +1,15 @@
+[     0.000] Parsing verilog design /home/zuni-w/Desktop/fan/toSLIVER/GIFTSbox_map.v with top module GIFTSbox
+0 unconnected cell(s) removed
+0 Buffer(s) removed and 0 signal(s) rerouted
+[     0.004] Netlist: GIFT.nl
+[     0.006] Parse: 270 gate(s) / 385 signal(s)
+[     0.010] Elaborate: 270 gate(s) / 385 signal(s)
+[     0.833] probing.standard (d ≤ 1) -- [1;32mPASS[0m.	>> Probes: <xor:line91,xnor:line104>
+[     1.526] probing.robust   (d ≤ 1) -- [1;32mPASS[0m.	>> Probes: <reg:line65,reg:line120>
+[     1.546] NI.standard      (d ≤ 1) -- [1;31mFAIL[0m.	>> Probes: <xnor:line90>
+[     1.547] NI.robust        (d ≤ 1) -- [1;31mFAIL[0m.	>> Probes: <reg:line110>
+[     1.557] SNI.standard     (d ≤ 1) -- [1;31mFAIL[0m.	>> Probes: <xnor:line90>
+[     1.557] SNI.robust       (d ≤ 1) -- [1;31mFAIL[0m.	>> Probes: <reg:line110>
+[     1.560] PINI.standard    (d ≤ 1) -- [1;31mFAIL[0m.	>> Probes: <and:line39>
+[     1.560] PINI.robust      (d ≤ 1) -- [1;31mFAIL[0m.	>> Probes: <reg:line65>
+[     1.691] uniformity               -- [1;32mPASS[0m.
